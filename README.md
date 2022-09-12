@@ -1,4 +1,4 @@
-### oi eu sou o leomir 👋
+### oi eu sou o Leomir 👋
 
 - Auto-organizável
 - Vivência em times multidisciplinares
