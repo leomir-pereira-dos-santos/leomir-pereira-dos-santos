@@ -1,16 +1,10 @@
-### oi eu sou o Leomir 👋
+# Leomir 👋
 
 - Auto-organizável
-- Vivência em times multidisciplinares
-- Boa relação interpessoal
 - Socializável 
-- Visão sistêmica
 - Organizado com tarefas
-- Noção de prioridade
 - Autodidata e Curioso
 - Pró-ativo
-- Solução do problema pela raiz
-- Raciocínio Lógico e Assertivo
 - Muita vontade de aprender
 
 
