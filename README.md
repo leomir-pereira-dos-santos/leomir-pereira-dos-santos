@@ -15,7 +15,7 @@
 
 
 
--![leomir GitHub stats](https://github-readme-stats.vercel.app/api?username=leomir-pereira-dos-santos&show_icons=true&theme=merko)
+![leomir GitHub stats](https://github-readme-stats.vercel.app/api?username=leomir-pereira-dos-santos&show_icons=true&theme=merko)
 
 
 
