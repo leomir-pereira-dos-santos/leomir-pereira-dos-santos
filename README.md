@@ -1,6 +1,7 @@
 # seja bem vindo(a), eu sou o  <a href="https://www.linkedin.com/in/leomir-pereira-dos-santos-441bb9248/">Leomir Pereira dos Santos 😃️</a>
  
 
+
 - Auto-organizável
 - Socializável 
 - Organizado com tarefas
